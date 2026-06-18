@@ -12,11 +12,11 @@ I design and build AI/ML workflows that solve problems in the AEC industry; from
 | Project | What it does | Stack |
 |---|---|---|
 | [Disperse](https://github.com/RashiD2801/Disperse) | Crowd density estimation from satellite imagery for event safety planning | Python · FastAPI · React · Keras · Mapbox GL JS |
-| [RetroGrade](https://github.com/RashiD2801/RetroGrade) | Building facade retrofit scoring — semantic segmentation, climate data, energy regression, PDF output | Python · SegFormer · FastAPI · scikit-learn |
-| [Surround](https://github.com/RashiD2801/Surround) | PM2.5 air quality prediction from urban land use and ERA5 weather across Krakow — R²=0.85, MAE=6.48 µg/m³ | Python · scikit-learn · Google Earth Engine · ERA5 |
+| [RetroGrade](https://github.com/RashiD2801/RetroGrade) | Building facade retrofit scoring; semantic segmentation, climate data, energy regression, PDF output | Python · SegFormer · FastAPI · scikit-learn |
+| [Surround](https://github.com/RashiD2801/Surround) | PM2.5 air quality prediction from urban land use and ERA5 weather across Krakow;  R²=0.85, MAE=6.48 µg/m³ | Python · scikit-learn · Google Earth Engine · ERA5 |
 | [UrbanShade](https://github.com/RashiD2801/UrbanShade) | Draw any area in Europe, run a UTCI thermal comfort simulation, test cooling interventions | JavaScript · Grasshopper |
 | [upcycling-timber](https://github.com/RashiD2801/upcycling-timber) | CV pipeline for detecting salvageable timber and exporting robot pick-up coordinates | Python · OpenCV · Roboflow · ArUco markers |
-| [Clay-Create](https://github.com/RashiD2801/Clay-Create) | AI-adaptive clay fabrication — depth camera scans tiles and regenerates designs for visual continuity | Python · Computer Vision · Robotic Fabrication |
+| [Clay-Create](https://github.com/RashiD2801/Clay-Create) | AI-adaptive clay fabrication; depth camera scans tiles and regenerates designs for visual continuity | Python · Computer Vision · Robotic Fabrication |
 
 ---
 
