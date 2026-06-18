@@ -9,7 +9,7 @@ I design and build AI/ML workflows that solve problems in the AEC industry; from
 
 ## Professional Work at NAME Architecture
 
-Internal tools built for practice use — code is private.
+Internal tools built for practice use (code is private.)
 
 **NAMELab** is an AI platform developed for NAME Architecture to make accumulated studio knowledge accessible and useful during design.
 
