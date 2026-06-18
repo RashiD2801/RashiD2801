@@ -3,7 +3,7 @@
 Architect and AI/ML researcher at NAME Architecture(https://namearchitecture.net), Paris.
 Master in AI for Architecture and Business Innovation, IAAC Barcelona.
 
-I design and build AI/ML workflows that solve problems in the AEC industry — from crowd safety and building performance to environmental analysis and robotic fabrication. My work sits at the intersection of spatial thinking and machine learning: I bring an architect's understanding of buildings, cities and data to every model I train.
+I design and build AI/ML workflows that solve problems in the AEC industry; from crowd safety and building performance to environmental analysis and robotic fabrication. My work sits at the intersection of spatial thinking and machine learning: I bring an architect's understanding of buildings, cities and data to every model I train.
 
 ---
 
