@@ -1,9 +1,11 @@
 # Rashi Desadla
 
-Architect and AI/ML researcher at NAME Architecture(https://namearchitecture.net), Paris.
+Architect and AI/ML researcher at [NAME Architecture](https://namearchitecture.net), Paris.
 Master in AI for Architecture and Business Innovation, IAAC Barcelona.
 
 I design and build AI/ML workflows that solve problems in the AEC industry; from crowd safety and building performance to environmental analysis and robotic fabrication. My work sits at the intersection of spatial thinking and machine learning: I bring an architect's understanding of buildings, cities and data to every model I train.
+
+Currently building **NAMELab** ; an AI design intelligence platform for NAME Architecture and an automation tool for [Encore](https://encorebuildings.com/) that generates 3D design options for converting vacant office buildings into residential and mixed-use without demolition.
 
 ---
 
@@ -19,6 +21,8 @@ Internal tools built for practice use (code is private.)
 | Design Intelligence | Extracts design reasoning from audio recordings, site notes and project documents into a structured knowledge base. Analyses site context and generates calibrated briefs for new projects. | Python · FastAPI · LLM · RAG · Docker |
 | Internal LLM Platform | Secure multi-stack AI system with separate knowledge bases for material research, project history, RFP writing, journal drafting and prompt generation. | Python · RAG · Ollama · Msty.studio |
 | ComfyUI Workflows | Image generation and enhancement pipelines calibrated to the studio's visual language. | ComfyUI · Stable Diffusion · Checkpoints  · loRAs |
+| [Encore](https://encorebuildings.com/) Automation | Automates the generation of 3D design options for Encore; an adaptive reuse system (NAME Architecture consortium) that converts vacant office buildings into residential and mixed-use without demolition. | Python · JavaScript · Grasshopper · FastAPI |
+
 
 ---
 
