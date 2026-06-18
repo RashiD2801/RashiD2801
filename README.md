@@ -7,6 +7,21 @@ I design and build AI/ML workflows that solve problems in the AEC industry; from
 
 ---
 
+## Professional Work at NAME Architecture
+
+Internal tools built for practice use — code is private.
+
+**NAMELab** is an AI platform developed for NAME Architecture to make accumulated studio knowledge accessible and useful during design.
+
+| Tool | What it does | Stack |
+|---|---|---|
+| Studio Image Library | CLIP semantic search across 10,000+ architectural images; search by spatial quality, materiality, mood or light. Each image tagged by GPT-4o Vision with 15 architectural attributes. Deployed internally. | Python · FastAPI · CLIP · GPT-4o · UMAP · Docker |
+| Design Intelligence | Extracts design reasoning from audio recordings, site notes and project documents into a structured knowledge base. Analyses site context and generates calibrated briefs for new projects. | Python · FastAPI · LLM · RAG · Docker |
+| Internal LLM Platform | Secure multi-stack AI system with separate knowledge bases for material research, project history, RFP writing, journal drafting and prompt generation. | Python · RAG · Ollama · Msty.studio |
+| ComfyUI Workflows | Image generation and enhancement pipelines calibrated to the studio's visual language. | ComfyUI · Stable Diffusion · Checkpoints  · loRAs |
+
+---
+
 ## Projects
 
 | Project | What it does | Stack |
